@@ -28,7 +28,7 @@ The goal is to make the website **interactive, visually appealing, SEO-optimized
 ---
 
 ## 🌐 Live Demo  
-👉 [**View Live Website**](https://your-username.github.io/crop-growth-tracker/)  
+👉 [**View Live Website**](https://fabian819.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/)  
 
 ---
 
@@ -50,5 +50,5 @@ The goal is to make the website **interactive, visually appealing, SEO-optimized
 ---
 
 ## 👨‍💻 Author  
-Built with ❤️ by [Your Name](https://github.com/your-username)  
+Built with  by [Your Name](https://github.com/fabian819)  
  
