@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Crop Growth Tracker - Records</title>
+  <link rel="stylesheet" href="style.css">
+  <meta name="description" content="Upload crop growth photos and write notes to keep detailed records of your farming.">
+</head>
+<body>
+  <header>
+    <h1>Crop Growth Tracker</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="records.html" class="active">Records</a></li>
+        <li><a href="about.html">About</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Add a New Record</h2>
+    <form>
+      <label for="date">Date:</label>
+      <input type="date" id="date" name="date" required>
+
+      <label for="photo">Upload Photo:</label>
+      <input type="file" id="photo" name="photo" accept="image/*">
+
+      <label for="notes">Notes:</label>
+      <textarea id="notes" name="notes" rows="4" placeholder="Write your observations here..."></textarea>
+
+      <button type="submit" class="btn">Save Record</button>
+    </form>
+
+    <h2>Previous Records</h2>
+    <div class="records-grid">
+    <div class="record-card">
+        <h3>2025-09-20</h3>
+        <img src="images/sample-crop.jpg" alt="Sample crop photo">
+        <p>Seedlings sprouted with healthy green leaves.</p>
+    </div>
+
+    <div class="record-card">
+        <h3>2025-09-18</h3>
+        <img src="images/sample-crop2.jpg" alt="Another crop photo">
+        <p>Soil looks moist and growth is steady.</p>
+    </div>
+    </div>
+
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Crop Growth Tracker. All rights reserved.</p>
+  </footer>
+  <script src="script.js"></script>
+
+</body>
+</html>
