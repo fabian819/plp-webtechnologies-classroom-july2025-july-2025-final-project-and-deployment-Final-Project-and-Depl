@@ -50,5 +50,5 @@ The goal is to make the website **interactive, visually appealing, SEO-optimized
 ---
 
 ## 👨‍💻 Author  
-Built with  by [Your Name](https://github.com/fabian819)  
+Built with  by [Fabian](https://github.com/fabian819)  
  
